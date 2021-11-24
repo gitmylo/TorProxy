@@ -1,0 +1,9 @@
+C:\Users\milan\RiderProjects\HolePunchingTest\HolePunchingTest\bin\Debug\HolePunchingTest.exe
+C:\Users\milan\RiderProjects\HolePunchingTest\HolePunchingTest\bin\Debug\HolePunchingTest.pdb
+C:\Users\milan\RiderProjects\HolePunchingTest\HolePunchingTest\obj\Debug\HolePunchingTest.csproj.AssemblyReference.cache
+C:\Users\milan\RiderProjects\HolePunchingTest\HolePunchingTest\obj\Debug\HolePunchingTest.csproj.CoreCompileInputs.cache
+C:\Users\milan\RiderProjects\HolePunchingTest\HolePunchingTest\obj\Debug\HolePunchingTest.exe
+C:\Users\milan\RiderProjects\HolePunchingTest\HolePunchingTest\obj\Debug\HolePunchingTest.pdb
+C:\Users\milan\RiderProjects\HolePunchingTest\HolePunchingTest\bin\Debug\Knapcode.TorSharp.dll
+C:\Users\milan\RiderProjects\HolePunchingTest\HolePunchingTest\bin\Debug\Knapcode.TorSharp.xml
+C:\Users\milan\RiderProjects\HolePunchingTest\HolePunchingTest\obj\Debug\HolePunchingTest.csproj.CopyComplete
