@@ -22,13 +22,15 @@ namespace TorProxy
         ExtractedToolsDirectory = Path.Combine(Path.GetTempPath(), "TorExtracted"),
         PrivoxySettings =
         {
-          Port = 1337
+          Port = 1337,
+          ListenAddress = "0.0.0.0",
         },
         TorSettings =
         {
           SocksPort = 1338,
           ControlPort = 1339,
           ControlPassword = "CHJOIj3?>?>?<?L<}{PFS}15lhoNJS)IVNpjfl?LFJSD?LFJHS?FSDJF;",
+          HttpsProxyHost = "0.0.0.0",
         },
       };
 
